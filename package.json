@@ -1,0 +1,16 @@
+{
+  "name": "youtubebackend",
+  "version": "1.0.0",
+  "description": "a Backend with Chai aur code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "Backend",
+    "Youtube"
+  ],
+  "author": "Manoj",
+  "license": "ISC"
+}
